@@ -1,2 +1,2 @@
-# c25
-it is like looking through a window
+# p5.play-boilerplate
+Boiler plate for p5.play
